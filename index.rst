@@ -30,4 +30,3 @@ For more detailed documentation, check out these links:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
