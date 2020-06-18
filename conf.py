@@ -20,6 +20,7 @@
 project = 'Polygon.io Docs'
 copyright = '2020, Polygon.io, Inc'
 author = 'Polygon.io'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
